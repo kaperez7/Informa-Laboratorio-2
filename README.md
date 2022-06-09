@@ -7,7 +7,7 @@ Comprobar experimentalmente el Análisis de Nodos, mediante el armado y modelado
 
 * Definir el método del voltaje en nodos.
 * Comparar los valores medidos y calculados.
-* 
+* Identificar correctamente los nosdos existentes en el circuito.
 
 2. MARCO TEÓRICO 
 
@@ -48,8 +48,7 @@ https://youtu.be/79hzKAxbBN8
 
 * El método de voltaje en nodos trata de determinar el voltaje presente en cada nodo del circuito mediante la ley de la corriente de Kirchhoff y luego aplicando la ley de Ohm que dicta que I=V/R.
 * En este circuito existen 2 nodos 1 y uno de referencia, al comparar valores calculados con los medidos se nota un pequeño porcentaje de error por lo que se puede decir que el metodo para calcular voltaje es factible. 
-* 
-
+* Para identificar un nodo se analiza el sistema y se busca la union de 2 o mas componentes, exite un nodo de referencia que es llamado nodo de tierra, para calcular el voltaje se debe analizar cada nodo como una entidad distinta y aplicando la ley de Kirchhoff.
 
 7. BIBLIOGRAFÍA
 
