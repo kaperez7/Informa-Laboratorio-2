@@ -8,6 +8,10 @@
 
 2. MARCO TEÓRICO 
 
+![image](https://user-images.githubusercontent.com/105679480/172743746-3df13b9c-88c5-4757-a25b-b2a1f62361c4.png)
+![image](https://user-images.githubusercontent.com/105679480/172743765-cf3a5af3-2703-4309-933a-04ce0de9c1d4.png)
+![image](https://user-images.githubusercontent.com/105679480/172743807-51284dce-3017-4894-8169-202eec2b58e9.png)
+![image](https://user-images.githubusercontent.com/105679480/172743845-78c83850-6cb3-4785-a50d-4d57d32ff118.png)
 
 4. EXPLICACIÓN DEL PROCEDIMIENTO
 
