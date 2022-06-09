@@ -12,6 +12,8 @@
 ![image](https://user-images.githubusercontent.com/105679480/172743765-cf3a5af3-2703-4309-933a-04ce0de9c1d4.png)
 ![image](https://user-images.githubusercontent.com/105679480/172743807-51284dce-3017-4894-8169-202eec2b58e9.png)
 ![image](https://user-images.githubusercontent.com/105679480/172743845-78c83850-6cb3-4785-a50d-4d57d32ff118.png)
+![image](https://user-images.githubusercontent.com/105679480/172744136-48f6d801-7b26-430a-9d7c-a6442ef49a77.png)
+
 
 4. EXPLICACIÓN DEL PROCEDIMIENTO
 
