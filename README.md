@@ -17,21 +17,11 @@
 
 4. EXPLICACIÓN DEL PROCEDIMIENTO
 
-En este punto se debe explicar cómo funcionan la implementación del circuito y los cálculos de respaldo.
+![image](https://user-images.githubusercontent.com/105570939/172745891-fdb5f1cb-11ba-4f41-a4f0-aa91075a7b5b.png)
 
-Los diagramas hacen referencia a una representación visual de lo que se ha desarrollado enfocado al software y al hardware. Los diagramas son:
-* Diagramas de bloques.
-* Diagramas UML. (casos de uso-clase)
-* Diagramas eléctricos.
-* Diagramas esquemáticos.
+![image](https://user-images.githubusercontent.com/105570939/172745825-08c75663-97f9-4c02-9add-9d99803d1381.png)
 
-Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicación de los circuitos.
 
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
-
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama2.jpg)
-
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama4.jpg)
 
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
