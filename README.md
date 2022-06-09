@@ -3,7 +3,11 @@
 
 1. OBJETIVOS
 
-Comprobar experimentalmente el Análisis de Nodos.
+Comprobar experimentalmente el Análisis de Nodos, mediante el armado y modelado del circuito con el software tinkercad,para conocer la efectividad del metodo de volateje en los nodos.  
+
+* Definir el método del voltaje en nodos.
+* Comparar los valores medidos y calculados.
+* 
 
 2. MARCO TEÓRICO 
 
@@ -42,7 +46,9 @@ https://youtu.be/79hzKAxbBN8
 
 6. CONCLUSIONES
 
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+* El método de voltaje en nodos trata de determinar el voltaje presente en cada nodo del circuito mediante la ley de la corriente de Kirchhoff y luego aplicando la ley de Ohm que dicta que I=V/R.
+* En este circuito existen 2 nodos 1 y uno de referencia, al comparar valores calculados con los medidos se nota un pequeño porcentaje de error por lo que se puede decir que el metodo para calcular voltaje es factible. 
+* 
 
 
 7. BIBLIOGRAFÍA
