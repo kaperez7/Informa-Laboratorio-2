@@ -3,8 +3,7 @@
 
 1. OBJETIVOS
 
-
-
+Comprobar experimentalmente el Análisis de Nodos.
 
 2. MARCO TEÓRICO 
 
@@ -17,17 +16,25 @@
 
 4. EXPLICACIÓN DEL PROCEDIMIENTO
 
+![image](https://user-images.githubusercontent.com/105570939/172773505-714c70c4-5d1f-457f-a073-813579337049.png)
+
 ![image](https://user-images.githubusercontent.com/105570939/172745891-fdb5f1cb-11ba-4f41-a4f0-aa91075a7b5b.png)
 
 ![image](https://user-images.githubusercontent.com/105570939/172747850-c6719863-f58d-4773-91a0-e285ad4d9d36.png)
 
 ![image](https://user-images.githubusercontent.com/105570939/172764469-2a8d9d2d-b071-4fbf-93ab-10c8dd045150.png)
 
+![image](https://user-images.githubusercontent.com/105570939/172773284-a9e77f2a-8e13-475c-90b2-8edcf5598683.png)
 
+![image](https://user-images.githubusercontent.com/105570939/172773414-3bcd8fa2-543b-406a-ad85-16f73a701203.png)
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-En este punto se contestará todo lo planteado en las guías.
+![image](https://user-images.githubusercontent.com/105570939/172773553-f58c3d8a-2bc8-4fb1-8eea-12a7c5110368.png)
+
+![image](https://user-images.githubusercontent.com/105570939/172774834-30aee37a-cb12-44df-8906-c7c4a05e984a.png)
+
+* Al calcular el error existente entre el valor medido y el calculado se aprecia que existe un pequeño porcentaje lo cual nos indica que el circuito esta bien armado por lo que los valores reales no se diferencian mucho de los teoricos. 
 
 5. VIDEO
 
