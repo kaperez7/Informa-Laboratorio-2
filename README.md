@@ -51,7 +51,12 @@ Se estable las conclusiones de cada asunto investigado, implicaciones para la te
 
 7. BIBLIOGRAFÍA
 
-Emplear normas APA para el informe e IEEE para el artículo
+El método del voltaje en los nodos (artículo). (2021, 15 septiembre). Khan Academy. Recuperado 6 de junio de 2022, de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-node-voltage-method
+
+Análisis de nodos - Análisis de circuitos I. (2020, 6 mayo). circuitos. Recuperado 6 de junio de 2022, de https://sites.google.com/site/proyectocircuitos1/analisis-de-nodos
+
+Ortega, A. M. G. (2021, 25 junio). Análisis de nodos. slider. Recuperado 6 de junio de 2022, de https://es.slideshare.net/angymaria16/anlisis-de-nodos
+
 
 
 RUBRICA
